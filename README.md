@@ -1,2 +1,2 @@
 # bro
-This is my Repository bro... enjoy.
+This is my repository bro... enjoy.
